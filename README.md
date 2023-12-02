@@ -39,7 +39,6 @@ if(result==-1):
 else:
     print(array)
     print("Element found at index: ",result)
-
 ii)	# Find the element in a list using Binary Search(Iterative Method).
 ''' 
 Program to find the element in a list using Binary Search(Iterative Method)..
